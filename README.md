@@ -1,14 +1,15 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: APEX WEB SERVICES
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+-Described the two types (SOAP & REST) of Apex web services and provide a high-level overview of these services.
 
-## How Do You Plan to Deploy Your Changes?
+-Invoked a custom Apex REST method with an endpoint.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+-Passed data to a custom Apex REST method by sending a request body in JSON format.
 
-## Configure Your Salesforce DX Project
+-Wrote a test method for an Apex REST method and set properties in a test REST request.
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+-Wrote a test method for an Apex REST method by calling the method with parameter values, resulting in 100% code coverage
+
 
 ## Read All About It
 
