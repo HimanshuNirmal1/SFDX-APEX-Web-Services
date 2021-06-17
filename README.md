@@ -1,6 +1,5 @@
 # Salesforce DX Project: APEX WEB SERVICES
 
-- Described the two types (SOAP & REST) of Apex web services and provide a high-level overview of these services.
 
 - Invoked a custom Apex REST method with an endpoint.
 
