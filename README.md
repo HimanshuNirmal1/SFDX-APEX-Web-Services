@@ -1,16 +1,16 @@
 # Salesforce DX Project: APEX WEB SERVICES
 
--Described the two types (SOAP & REST) of Apex web services and provide a high-level overview of these services.
+- Described the two types (SOAP & REST) of Apex web services and provide a high-level overview of these services.
 
--Invoked a custom Apex REST method with an endpoint.
+- Invoked a custom Apex REST method with an endpoint.
 
--Passed data to a custom Apex REST method by sending a request body in JSON format.
+- Passed data to a custom Apex REST method by sending a request body in JSON format.
 
--Wrote a test method for an Apex REST method and set properties in a test REST request.
+- Wrote a test method for an Apex REST method and set properties in a test REST request.
 
--Wrote a test method for an Apex REST method by calling the method with parameter values, resulting in 100% code coverage
+- Wrote a test method for an Apex REST method by calling the method with parameter values, resulting in 100% code coverage
 
--Path to the APEX classes: /force-app/main/default/classes/
+- Path to the APEX classes: /force-app/main/default/classes/
 
 
 ## Read All About It
