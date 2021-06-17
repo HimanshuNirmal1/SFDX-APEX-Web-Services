@@ -10,6 +10,8 @@
 
 -Wrote a test method for an Apex REST method by calling the method with parameter values, resulting in 100% code coverage
 
+-Path to the APEX classes: /force-app/main/default/classes/
+
 
 ## Read All About It
 
